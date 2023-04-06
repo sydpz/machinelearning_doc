@@ -1,0 +1,8 @@
+{
+    "app_id": "application-5-nrsip",
+    "config_version": 20210101,
+    "name": "Application-5",
+    "location": "SG",
+    "provider_region": "aws-ap-southeast-1",
+    "deployment_model": "LOCAL"
+}
